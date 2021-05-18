@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/AnkushDongre/mindcafe.git/static/js/main.6e25399e.chunk.js",
-    "main.js.map": "/AnkushDongre/mindcafe.git/static/js/main.6e25399e.chunk.js.map",
-    "runtime-main.js": "/AnkushDongre/mindcafe.git/static/js/runtime-main.cbefa2ee.js",
-    "runtime-main.js.map": "/AnkushDongre/mindcafe.git/static/js/runtime-main.cbefa2ee.js.map",
-    "static/css/2.f5425612.chunk.css": "/AnkushDongre/mindcafe.git/static/css/2.f5425612.chunk.css",
-    "static/js/2.4c9d94d4.chunk.js": "/AnkushDongre/mindcafe.git/static/js/2.4c9d94d4.chunk.js",
-    "static/js/2.4c9d94d4.chunk.js.map": "/AnkushDongre/mindcafe.git/static/js/2.4c9d94d4.chunk.js.map",
-    "static/js/3.cf32aae8.chunk.js": "/AnkushDongre/mindcafe.git/static/js/3.cf32aae8.chunk.js",
-    "static/js/3.cf32aae8.chunk.js.map": "/AnkushDongre/mindcafe.git/static/js/3.cf32aae8.chunk.js.map",
-    "index.html": "/AnkushDongre/mindcafe.git/index.html",
-    "static/css/2.f5425612.chunk.css.map": "/AnkushDongre/mindcafe.git/static/css/2.f5425612.chunk.css.map",
-    "static/js/2.4c9d94d4.chunk.js.LICENSE.txt": "/AnkushDongre/mindcafe.git/static/js/2.4c9d94d4.chunk.js.LICENSE.txt",
-    "static/media/logo.0029f6d8.png": "/AnkushDongre/mindcafe.git/static/media/logo.0029f6d8.png",
-    "static/media/slick-theme.css": "/AnkushDongre/mindcafe.git/static/media/slick.c94f7671.ttf"
+    "main.js": "/mindcafe/static/js/main.6e25399e.chunk.js",
+    "main.js.map": "/mindcafe/static/js/main.6e25399e.chunk.js.map",
+    "runtime-main.js": "/mindcafe/static/js/runtime-main.97068637.js",
+    "runtime-main.js.map": "/mindcafe/static/js/runtime-main.97068637.js.map",
+    "static/css/2.c1772929.chunk.css": "/mindcafe/static/css/2.c1772929.chunk.css",
+    "static/js/2.4c9d94d4.chunk.js": "/mindcafe/static/js/2.4c9d94d4.chunk.js",
+    "static/js/2.4c9d94d4.chunk.js.map": "/mindcafe/static/js/2.4c9d94d4.chunk.js.map",
+    "static/js/3.cf32aae8.chunk.js": "/mindcafe/static/js/3.cf32aae8.chunk.js",
+    "static/js/3.cf32aae8.chunk.js.map": "/mindcafe/static/js/3.cf32aae8.chunk.js.map",
+    "index.html": "/mindcafe/index.html",
+    "static/css/2.c1772929.chunk.css.map": "/mindcafe/static/css/2.c1772929.chunk.css.map",
+    "static/js/2.4c9d94d4.chunk.js.LICENSE.txt": "/mindcafe/static/js/2.4c9d94d4.chunk.js.LICENSE.txt",
+    "static/media/logo.0029f6d8.png": "/mindcafe/static/media/logo.0029f6d8.png",
+    "static/media/slick-theme.css": "/mindcafe/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbefa2ee.js",
-    "static/css/2.f5425612.chunk.css",
+    "static/js/runtime-main.97068637.js",
+    "static/css/2.c1772929.chunk.css",
     "static/js/2.4c9d94d4.chunk.js",
     "static/js/main.6e25399e.chunk.js"
   ]
