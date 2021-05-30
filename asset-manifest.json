@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.js": "/mindcafe/static/js/main.6e25399e.chunk.js",
-    "main.js.map": "/mindcafe/static/js/main.6e25399e.chunk.js.map",
-    "runtime-main.js": "/mindcafe/static/js/runtime-main.97068637.js",
-    "runtime-main.js.map": "/mindcafe/static/js/runtime-main.97068637.js.map",
+    "main.css": "/mindcafe/static/css/main.a61b0a14.chunk.css",
+    "main.js": "/mindcafe/static/js/main.8ece447d.chunk.js",
+    "main.js.map": "/mindcafe/static/js/main.8ece447d.chunk.js.map",
+    "runtime-main.js": "/mindcafe/static/js/runtime-main.5d18b666.js",
+    "runtime-main.js.map": "/mindcafe/static/js/runtime-main.5d18b666.js.map",
     "static/css/2.c1772929.chunk.css": "/mindcafe/static/css/2.c1772929.chunk.css",
-    "static/js/2.4c9d94d4.chunk.js": "/mindcafe/static/js/2.4c9d94d4.chunk.js",
-    "static/js/2.4c9d94d4.chunk.js.map": "/mindcafe/static/js/2.4c9d94d4.chunk.js.map",
-    "static/js/3.cf32aae8.chunk.js": "/mindcafe/static/js/3.cf32aae8.chunk.js",
-    "static/js/3.cf32aae8.chunk.js.map": "/mindcafe/static/js/3.cf32aae8.chunk.js.map",
+    "static/js/2.95844825.chunk.js": "/mindcafe/static/js/2.95844825.chunk.js",
+    "static/js/2.95844825.chunk.js.map": "/mindcafe/static/js/2.95844825.chunk.js.map",
+    "static/js/3.b55d2b16.chunk.js": "/mindcafe/static/js/3.b55d2b16.chunk.js",
+    "static/js/3.b55d2b16.chunk.js.map": "/mindcafe/static/js/3.b55d2b16.chunk.js.map",
     "index.html": "/mindcafe/index.html",
     "static/css/2.c1772929.chunk.css.map": "/mindcafe/static/css/2.c1772929.chunk.css.map",
-    "static/js/2.4c9d94d4.chunk.js.LICENSE.txt": "/mindcafe/static/js/2.4c9d94d4.chunk.js.LICENSE.txt",
+    "static/css/main.a61b0a14.chunk.css.map": "/mindcafe/static/css/main.a61b0a14.chunk.css.map",
+    "static/js/2.95844825.chunk.js.LICENSE.txt": "/mindcafe/static/js/2.95844825.chunk.js.LICENSE.txt",
+    "static/media/ben-white-4K2lIP0zc_k-unsplash.82706e1c.jpg": "/mindcafe/static/media/ben-white-4K2lIP0zc_k-unsplash.82706e1c.jpg",
+    "static/media/gift-habeshaw-Of8C-QHqagM-unsplash.73bc839d.jpg": "/mindcafe/static/media/gift-habeshaw-Of8C-QHqagM-unsplash.73bc839d.jpg",
+    "static/media/kristina-tripkovic-nwWUBsW6ud4-unsplash.10e6ba65.jpg": "/mindcafe/static/media/kristina-tripkovic-nwWUBsW6ud4-unsplash.10e6ba65.jpg",
     "static/media/logo.0029f6d8.png": "/mindcafe/static/media/logo.0029f6d8.png",
+    "static/media/style.css": "/mindcafe/static/media/mi-pham-FtZL0r4DZYk-unsplash.1831dfc3.jpg",
     "static/media/slick-theme.css": "/mindcafe/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.97068637.js",
+    "static/js/runtime-main.5d18b666.js",
     "static/css/2.c1772929.chunk.css",
-    "static/js/2.4c9d94d4.chunk.js",
-    "static/js/main.6e25399e.chunk.js"
+    "static/js/2.95844825.chunk.js",
+    "static/css/main.a61b0a14.chunk.css",
+    "static/js/main.8ece447d.chunk.js"
   ]
 }
